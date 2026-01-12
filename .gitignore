@@ -12,3 +12,12 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Datasets (images)
+ml/data/
+
+# Generated artifacts
+ml/artifacts/data.txt
+
+# Trained models
+ml/models/

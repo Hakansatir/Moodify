@@ -45,3 +45,5 @@ def get_face_landmarks(image, draw=False, static_image_mode=True):
             image_landmarks.append(zs_[j] - min(zs_))
 
     return image_landmarks
+
+extract_face_landmarks = get_face_landmarks

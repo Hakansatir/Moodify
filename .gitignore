@@ -21,3 +21,9 @@ ml/artifacts/data.txt
 
 # Trained models
 ml/models/
+
+# Enviroment variables
+.env
+
+# Backend
+backend/tokens.json
